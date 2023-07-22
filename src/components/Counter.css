@@ -1,0 +1,26 @@
+.num {
+  font-size: x-large;
+  padding : 50px;
+  margin : 30px 20px;
+  color:black;
+  background-color: brown;
+  font-family: "Helvetica";
+  display: inline-block;
+}
+
+.btn {
+  font-size: 2rem;
+  padding: 10px;
+  border-radius: 80%;
+  margin: 20px;
+  color: white;
+  background-color: black;
+  border-width: 0px;
+}
+
+.btn:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+  border: 2px solid black;
+}
